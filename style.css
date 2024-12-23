@@ -1,0 +1,31 @@
+#sec1{
+    height: 300px;
+    width: 450px;
+    background-color: aqua;
+    /*
+    this is the id tag on css height are 300px that width on 450px
+    background- color is a aqua
+    */
+}
+#sec1:hover{
+  text-align: center;
+  opacity: 0.5;
+  background-image: url(shinchan.jpeg);
+  /*
+  opacity:it's only on poit values used to 0 to 1 maximum
+  hover: this is a mouse over effect using opacity & transparency
+  this is a id hover effect show on text on go to center and that
+   transparncy of the background image 
+   */
+}
+
+
+/*
+Disclaimer!!:I am also learn the css so any one have the dout just feel free to ask me i 
+try my level best for yours!!!
+
+AnyWay Happy Learning And Don'f Forget Education Make Brilliant EveryBody, so be learn 
+something your own interst!!!
+
+See You Soon!!!  AND  Keep up the great work and happy coding! 🌟📚
+*/
